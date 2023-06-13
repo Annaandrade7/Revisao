@@ -1,0 +1,12 @@
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\bin\Debug\RevisaoWinds.exe.config
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\bin\Debug\RevisaoWinds.exe
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\bin\Debug\RevisaoWinds.pdb
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\obj\Debug\RevisaoWinds.csproj.AssemblyReference.cache
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\obj\Debug\RevisaoWinds.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\obj\Debug\RevisaoWinds.Divisao.resources
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\obj\Debug\RevisaoWinds.Menu.resources
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\obj\Debug\RevisaoWinds.Properties.Resources.resources
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\obj\Debug\RevisaoWinds.csproj.GenerateResource.cache
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\obj\Debug\RevisaoWinds.csproj.CoreCompileInputs.cache
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\obj\Debug\RevisaoWinds.exe
+C:\Users\2022102020079\source\repos\RevisaoWinds\RevisaoWinds\obj\Debug\RevisaoWinds.pdb
